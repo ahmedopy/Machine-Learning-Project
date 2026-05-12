@@ -49,6 +49,3 @@ Urban air pollution is a critical global health crisis. This project presents a 
 - **MSE** — Mean Squared Error
 - **R²** — Coefficient of determination
 
----
-
-## 📈 Results Summary
